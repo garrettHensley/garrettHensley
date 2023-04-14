@@ -16,7 +16,7 @@ In my free time I am building an app for my Dungeons & Dragons group.
  Search for your favorite Marvel characters; heroes AND villains(!!). Uses a Marvel API, to get character and comic data.  [Demo](https://garretthensley.github.io/marvel-db/#/) || [Source](https://github.com/garrettHensley/marvel-db)  
 
 ## garretthensley.me / Portfolio
- Search for your favorite Marvel characters; heroes AND villains(!!). Uses a Marvel API, to get character and comic data.  [Demo](https://garretthensley.me) || [Source](https://github.com/garrettHensley/Vue-Portfolio)  
+ Currently under construction.  [Demo](https://garretthensley.me) || [Source](https://github.com/garrettHensley/Vue-Portfolio)  
 
 ## dndti.me
  Prototype for my DND scheduler. Work in progress.  [Demo](http://dndti.me) || [Source](https://github.com/garrettHensley/deploy-test)  
