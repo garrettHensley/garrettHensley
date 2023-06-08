@@ -1,6 +1,6 @@
 # ✨ Welcome to my GitHub ✨
 
-Hi! My name is Garrett. I'm a Full Stack Engineer in the Healthcare Sector. I work for Vernier Health, previously known as Halos Systems.
+Hi! My name is Garrett. I'm a Full Stack Engineer in the Healthcare Sector.
 
 My passions include technology, eSports, mountain biking, and  coffee. I consider myself self-motivated, fast-learning, highly energetic, and adaptable, which I believe makes me compatible with nearly any group of people.
 
