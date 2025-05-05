@@ -1,3 +1,10 @@
-Full Stack Engineer guy.  
-.NET, MVC, SQL, JavaScript.  
-Rock Climbing, Mountain Biking, Dungeons & Dragons.  
+## Full Stack Engineer guy.  
+#### Stacks
+- .NET
+- SQL
+- JavaScript
+- Vue.js
+#### Enjoyer of
+- Windsurfing
+- Dungeons & Dragons
+- Linux (I use arch btw)
