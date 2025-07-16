@@ -5,6 +5,6 @@
 - JavaScript
 - Vue.js
 ### Enjoyer of
-- Windsurfing
+- Wingfoiling
 - Dungeons & Dragons
 - Linux (I use arch btw)
