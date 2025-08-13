@@ -13,3 +13,7 @@
 - Rust
 - Vim
 - Godot
+### Playing
+- Victoria 3
+- Call of Cthulhu
+- Gloomwood
