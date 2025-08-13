@@ -1,6 +1,7 @@
 ## Full Stack Engineer guy.  
 ### Stacks
 - .NET
+- C#
 - SQL
 - JavaScript
 - Vue.js
@@ -8,3 +9,7 @@
 - Wingfoiling
 - Dungeons & Dragons
 - Linux (I use arch btw)
+### Learning
+- Rust
+- Vim
+- Godot
