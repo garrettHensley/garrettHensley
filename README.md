@@ -15,6 +15,6 @@
 - Vim
 - Godot
 ### Playing
-- Victoria 3
+- Silksong
 - Call of Cthulhu
-- Gloomwood
+- Europa V SOON!!!!!!!
