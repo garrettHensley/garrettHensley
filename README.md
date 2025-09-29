@@ -16,5 +16,5 @@
 - Godot
 ### Playing
 - Silksong
-- Call of Cthulhu
+- Call of Cthulhu (TTRPG)
 - Europa V SOON!!!!!!!
