@@ -15,6 +15,6 @@
 - Vim
 - Godot
 ### Playing
-- Silksong
 - Call of Cthulhu (TTRPG)
-- Europa V SOON!!!!!!!
+- Fellowship
+- Europa V
