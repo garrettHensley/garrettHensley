@@ -6,10 +6,10 @@
 - JavaScript
 - Vue.js
 ### Enjoyer of
-- Wingfoiling
-- Dungeons & Dragons
 - Rock Climbing
 - Linux (I use arch btw)
+- Wingfoiling
+- Dungeons & Dragons
 ### Learning
 - Rust
 - Vim
