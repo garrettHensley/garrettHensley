@@ -16,5 +16,4 @@
 - Godot
 ### Playing
 - Call of Cthulhu (TTRPG)
-- Fellowship
-- Europa V
+- Deadlock
