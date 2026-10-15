@@ -9,9 +9,11 @@
 - Rock Climbing
 - Linux (I use arch btw)
 - Dungeons & Dragons
+- - Vim
 ### Learning
-- Vim
 - Godot
+- Blender
 ### Playing
 - Call of Cthulhu (TTRPG)
 - Deadlock
+- Europa Universalis V
