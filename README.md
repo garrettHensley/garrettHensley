@@ -9,7 +9,7 @@
 - Rock Climbing
 - Linux (I use arch btw)
 - Dungeons & Dragons
-- - Vim
+- Vim
 ### Learning
 - Godot
 - Blender
